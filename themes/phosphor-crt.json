@@ -404,17 +404,7 @@
             "font_style": null,
             "font_weight": null
           }
-        },
-        "scrollbar.thumb.active_background": "#004F4FFF",
-        "panel.overlay_background": "#001F1FEE",
-        "panel.overlay_hover": "#001F1FEE",
-        "minimap.thumb.background": "#003333FF",
-        "minimap.thumb.hover_background": "#004F4FFF",
-        "minimap.thumb.active_background": "#004F4FFF",
-        "minimap.thumb.border": "#FFFFFF00",
-        "version_control.renamed": "#74ade8ff",
-        "version_control.conflict": "#dec184ff",
-        "version_control.ignored": "#878a98ff"
+        }
       }
     }
   ]
