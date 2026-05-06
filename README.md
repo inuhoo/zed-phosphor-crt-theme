@@ -1,6 +1,11 @@
-# Phosphor CRT
+![Phosphor CRT](assets/phosphor-crt.png)
 
 A Retro 80s sci-fi CRT theme for Zed IDE. A striking and nostalgic combination of Green phosphor UI and an amber CRT style terminal.
+
+## Preview
+
+[Phosphor CRT Screenshot](assets/screenshot-1.png)
+
 
 ## About
 
