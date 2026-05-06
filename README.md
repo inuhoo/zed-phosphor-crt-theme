@@ -4,7 +4,7 @@ A Retro 80s sci-fi CRT theme for Zed IDE. A striking and nostalgic combination o
 
 ## Preview
 
-[Phosphor CRT Screenshot](assets/screenshot-1.png)
+![Phosphor CRT Screenshot](assets/screenshot-1.png)
 
 
 ## About
