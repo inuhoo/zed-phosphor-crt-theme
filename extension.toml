@@ -1,8 +1,0 @@
-id = "phosphor-crts"
-name = "Phosphor CRT"
-version = "0.0.1"
-schema_version = 2
-authors = ["Inuhoo"]
-themes = ["themes/phosphor-crt.json"]
-description = "Retro-futurist, 80s sci-fi CRT inspired theme. Green phosphor UI + Amber CRT terminal"
-repository = "https://github.com/inuhoo/zed-phosphor-crt-theme"
